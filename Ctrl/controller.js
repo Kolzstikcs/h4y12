@@ -21,14 +21,14 @@ const video_hrefs = [
     ];
 
     const background_images_url = [
-      'back_img/l1_mobile.webp',
-      'back_img/l2_mobile.webp',
-      'back_img/l3_mobile.webp',
-      'back_img/l4_mobile.webp',
-      'back_img/l5_mobile.webp',
-      'back_img/l6_mobile.webp',
-      'back_img/l7_mobile.webp',
-      'back_img/l8_mobile.webp',
-      'back_img/l9_mobile.webp',
-      'back_img/l7_mobile.webp'
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l1_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l2_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l3_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l4_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l5_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l6_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l7_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l8_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l9_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l10_mobile.webp'
     ];
