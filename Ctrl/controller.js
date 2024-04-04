@@ -15,8 +15,8 @@ const video_hrefs = [
       'HOVER TRANSITION & SHADOW',  
       'TEXT STYLES',
       'STRUCTURE OF A WEBPAGE',
-     'IMAGES',
-     'INPUTS & TEXTBOXES',
+      'IMAGES',
+      'INPUTS & TEXTBOXES',
       'PROJECT_1- FOOD WEBSITE'
     ];
 
@@ -30,5 +30,4 @@ const video_hrefs = [
       'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l7_mobile.webp',
       'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l8_mobile.webp',
       'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l9_mobile.webp'
-      //'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l10_mobile.webp'
     ];
