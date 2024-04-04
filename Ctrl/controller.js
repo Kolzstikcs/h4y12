@@ -15,7 +15,7 @@ const video_hrefs = [
       'HOVER TRANSITION & SHADOW',  
       'TEXT STYLES',
       'STRUCTURE OF A WEBPAGE',
-     'IMAGES'
+     'IMAGES',
      'INPUTS & TEXTBOXES',
       'PROJECT_1- FOOD WEBSITE'
     ];
