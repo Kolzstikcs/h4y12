@@ -21,7 +21,7 @@ const video_hrefs = [
     ];
 
     const background_images_url = [
-      'back_img/l1_mobile.webp',
+      'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l1_mobile.webp',
       'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l2_mobile.webp',
       'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l3_mobile.webp',
       'https://kolzstikcs.github.io/h4y12/Ctrl/back_img/l4_mobile.webp',
